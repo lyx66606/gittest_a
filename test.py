@@ -1,8 +1,5 @@
 print('hello'+' world')
-print('hello'+' world')
-print('hello'+' world')
-print('hello'+' world')
-print('hello')
+
 print('0000')
 print('hello'+' world')
 print('1111')
